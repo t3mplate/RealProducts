@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # RealProducts
 =======
-EcoProducts - бот для подбора подходящей по вашим финансам продуктов 
+RealProducts - бот для подбора подходящей по вашим финансам продуктов 
 1. данные с компаний для доставки комплектов еды
 2. рацион питания в  инете (нейронки)
 3. рекомендательные цены на продукты
@@ -23,7 +23,7 @@ EcoProducts - бот для подбора подходящей по вашим 
 
 User Story Template: Как [тип клиента], [хочу то-то], [чтобы делать что-то]
 
-Участники: Резван Мурад, Бурцев Игорь, Слюсарь Игорь
+Участники: Петров Максим, Анастасия Сухосырова.
 
-Ссылка на Notion (UserStory, Boards, Timelines etc.): https://www.notion.so/selebry/ecccae2b74574a5b877dc1892f19c668?v=812d57d08147433b80fc313943213b7e&pvs=4
+Ссылка на Notion (UserStory, Boards, Timelines etc.): https://t3mplate.notion.site/89fb49142d3349f6a3e9fd151955f91d?v=cff7578e4b6d4a9f9ca11f7806e7e1b9&pvs=4
 >>>>>>> bddabe0 (project release)
