@@ -1,0 +1,7 @@
+README.md
+setup.py
+EcoProducts.egg-info/PKG-INFO
+EcoProducts.egg-info/SOURCES.txt
+EcoProducts.egg-info/dependency_links.txt
+EcoProducts.egg-info/requires.txt
+EcoProducts.egg-info/top_level.txt
